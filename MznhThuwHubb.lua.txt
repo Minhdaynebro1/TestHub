@@ -230,7 +230,7 @@ _G.Settings = {
 	game:GetService("StarterGui"):SetCore("SendNotification", {
 	  Title = "Discord",
 	  Text = "🔰Mznh Thuw🔰",
-	  Button1 = "Mznh Thuw",
+	  Button1 = "https://discord.com/invite/fszbjR4Kpu",
 	  Duration = 20
 	})
 	end)
